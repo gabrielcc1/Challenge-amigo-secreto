@@ -40,7 +40,7 @@ Podés clonar este repositorio usando:
 ```sh
  git clone https://github.com/gabrielcc1/Challenge-amigo-secreto.git
 ```
-
+- [Vista del proyecto](https://gabrielcc1.github.io/Challenge-amigo-secreto/)
 ---
 
 ## 🛠️ Tecnologías Utilizadas
